@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\bin\Debug\HelloWorldButton.exe.config
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\bin\Debug\HelloWorldButton.exe
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\bin\Debug\HelloWorldButton.pdb
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\bin\Debug\HelloWorldButton.xml
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.vbproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.Form1.resources
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.Resources.resources
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.vbproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.exe
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.xml
+C:\Users\Martin\Desktop\Projects\cs391\Assignment 1\HelloWorldButton\HelloWorldButton\obj\Debug\HelloWorldButton.pdb
