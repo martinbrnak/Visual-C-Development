@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\bin\Debug\ProgrammingProblem5.exe.config
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\bin\Debug\ProgrammingProblem5.exe
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\bin\Debug\ProgrammingProblem5.pdb
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.Form1.resources
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.Properties.Resources.resources
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.exe
+C:\Users\Martin\Desktop\Projects\cs392\Assignment 2\ProgrammingProblem5\obj\Debug\ProgrammingProblem5.pdb
