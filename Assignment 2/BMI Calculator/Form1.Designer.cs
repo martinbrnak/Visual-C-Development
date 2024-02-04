@@ -44,6 +44,8 @@
             this.txtFormatting2 = new System.Windows.Forms.Label();
             this.txtFormatting3 = new System.Windows.Forms.Label();
             this.btnCalculate = new System.Windows.Forms.Button();
+            this.txtEnglish = new System.Windows.Forms.Label();
+            this.txtMetric = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtHeight
@@ -142,7 +144,8 @@
             this.linkEnglish.TabIndex = 9;
             this.linkEnglish.TabStop = true;
             this.linkEnglish.Text = "English";
-            this.linkEnglish.VisitedLinkColor = System.Drawing.Color.Black;
+            this.linkEnglish.VisitedLinkColor = System.Drawing.SystemColors.HotTrack;
+            this.linkEnglish.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkEnglish_LinkClicked);
             // 
             // linkMetric
             // 
@@ -153,6 +156,7 @@
             this.linkMetric.TabIndex = 10;
             this.linkMetric.TabStop = true;
             this.linkMetric.Text = "Metric";
+            this.linkMetric.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkMetric_LinkClicked);
             // 
             // txtFormatting1
             // 
@@ -190,16 +194,39 @@
             this.btnCalculate.ForeColor = System.Drawing.Color.White;
             this.btnCalculate.Location = new System.Drawing.Point(141, 281);
             this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Padding = new System.Windows.Forms.Padding(3);
             this.btnCalculate.Size = new System.Drawing.Size(122, 34);
             this.btnCalculate.TabIndex = 14;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = false;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            // 
+            // txtEnglish
+            // 
+            this.txtEnglish.AutoSize = true;
+            this.txtEnglish.Location = new System.Drawing.Point(495, 55);
+            this.txtEnglish.Name = "txtEnglish";
+            this.txtEnglish.Size = new System.Drawing.Size(41, 13);
+            this.txtEnglish.TabIndex = 15;
+            this.txtEnglish.Text = "English";
+            // 
+            // txtMetric
+            // 
+            this.txtMetric.AutoSize = true;
+            this.txtMetric.Location = new System.Drawing.Point(542, 55);
+            this.txtMetric.Name = "txtMetric";
+            this.txtMetric.Size = new System.Drawing.Size(36, 13);
+            this.txtMetric.TabIndex = 16;
+            this.txtMetric.Text = "Metric";
+            this.txtMetric.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(652, 342);
+            this.Controls.Add(this.txtMetric);
+            this.Controls.Add(this.txtEnglish);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtFormatting3);
             this.Controls.Add(this.txtFormatting2);
@@ -241,6 +268,8 @@
         private System.Windows.Forms.Label txtFormatting2;
         private System.Windows.Forms.Label txtFormatting3;
         private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Label txtEnglish;
+        private System.Windows.Forms.Label txtMetric;
     }
 }
 
