@@ -1,0 +1,10 @@
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\bin\Debug\ExceptionCalculator.exe.config
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\bin\Debug\ExceptionCalculator.exe
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\bin\Debug\ExceptionCalculator.pdb
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.Form1.resources
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.Properties.Resources.resources
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.exe
+C:\Users\marti\Desktop\College\Spring 2024\CS391\Lecture3\ExceptionCalculator\ExceptionCalculator\obj\Debug\ExceptionCalculator.pdb
